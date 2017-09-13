@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[QLHybridTextItem optimumSize:]:QLHybridTextItem.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_optimumSize">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[QLRichLabel dealloc]:QLRichLabel.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[_textItem release];">
+            </PersistentString>
+            <PersistentString
+               value = "_textItem">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[QLHybridTextItem renderInSize:]:QLHybridTextItem.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.componentsAndPlainText">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
